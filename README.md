@@ -35,7 +35,7 @@ FROM fact_bookings;
 ```
 __Result__
 
-# total_revenue_realized
+total_revenue_realized
 '1708771229'
 
-Total Revenue Realized by AtliQ Grands: $1.71 Billion (during the analysis period)
+#### Total Revenue Realized by AtliQ Grands: $1.71 Billion (during the analysis period)
