@@ -35,7 +35,6 @@ FROM fact_bookings;
 ```
 __Result__
 
-total_revenue_realized
-'1708771229'
+![Q1 Result](results/Q1.JPG)
 
 #### Total Revenue Realized by AtliQ Grands: $1.71 Billion (during the analysis period)
