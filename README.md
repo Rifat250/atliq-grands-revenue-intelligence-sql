@@ -832,3 +832,9 @@ __Result__
 ![Q25 Result](results/Q25.jpg)
 
 #### Based on the combined KPI evaluation, Mumbai and Delhi should be prioritized for further investment. Mumbai demonstrates strong overall performance with the highest revenue and RevPAR, despite slightly lower occupancy, resulting in a solid KPI score and “invest” recommendation. Delhi also shows stable occupancy, healthy RevPAR, and balanced customer ratings, making it a viable market for expansion. In contrast, Hyderabad requires performance improvement due to weaker RevPAR despite moderate occupancy, while Bangalore ranks lowest overall, with weaker occupancy and customer ratings, leading to a “do not invest” recommendation. Overall, capital allocation should focus on high-performing, revenue-efficient markets like Mumbai and Delhi to maximize returns.
+
+# 👨‍💻 Author
+
+Maksud-Ur-Rashid
+
+Data Analyst | EXCEL | SQL | POWER BI | PYTHON
